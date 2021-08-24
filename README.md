@@ -8,5 +8,5 @@ Ngetich Gideon
 Live [link](https://kipkorir-gideon.github.io/Prep/).
 
 ## License & copyright
-Licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](LICENSE).__
 Copyright (c) 2021 Kipkorir-Gideon
