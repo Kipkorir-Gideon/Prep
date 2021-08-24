@@ -9,3 +9,4 @@ Live [link](https://kipkorir-gideon.github.io/Prep/).
 
 ## License & copyright
 Licensed under the [MIT License](LICENSE).
+Copyright (c) 2021 Kipkorir-Gideon
